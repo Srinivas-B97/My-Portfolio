@@ -2,5 +2,4 @@
 
 * This is my personal portfolio page
 * Develpoed using ReactJs
-* [Portfolio]()
-# UI-UX-Portfolio
+* [Portfolio](https://srinivas-b97.github.io/UI-UX-Portfolio/)

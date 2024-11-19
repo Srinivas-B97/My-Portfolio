@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.f2d99f0b.css",
+    "main.js": "/My-Portfolio/static/js/main.27fab423.js",
+    "static/media/eranadan_thakkaram_2.jpg": "/My-Portfolio/static/media/eranadan_thakkaram_2.3bb2450321f5b8aa6228.jpg",
+    "static/media/BookLending.png": "/My-Portfolio/static/media/BookLending.04f6a49f3c47242ea929.png",
+    "static/media/Home.png": "/My-Portfolio/static/media/Home.7d82faf108398410b091.png",
+    "static/media/hero_image.png": "/My-Portfolio/static/media/hero_image.4780f2010dd891f51c85.png",
+    "static/media/expense-tracker.png": "/My-Portfolio/static/media/expense-tracker.b09ff05f49a1f29234fc.png",
+    "static/media/logo.svg": "/My-Portfolio/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.f2d99f0b.css.map": "/My-Portfolio/static/css/main.f2d99f0b.css.map",
+    "main.27fab423.js.map": "/My-Portfolio/static/js/main.27fab423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d99f0b.css",
+    "static/js/main.27fab423.js"
+  ]
+}
